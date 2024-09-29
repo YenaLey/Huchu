@@ -6,7 +6,6 @@
   height: 60px;
   display: flex;
   justify-content: space-between;
-  background-color: azure;
   align-items: center;
   z-index: 1000;
 }
@@ -17,14 +16,10 @@
 }
 
 .logo a {
-  font-size: 40px;
-  font-weight: 900;
-  color: black; 
+  font-size: 3rem;
+  color: black;
   cursor: pointer;
-
-  @media (max-width: 800px) {
-    font-size: 30px;
-  }
+  font-weight: 900;
 }
 
 .pc-menu ul {
@@ -42,12 +37,11 @@
 .pc-menu li {
   list-style: none;
   padding: 0 20px;
-  font-size: 17px;
+  font-size: 1.3rem;
   font-weight: 900;
   color: black;
   cursor: pointer;
   z-index: 6000;
-
 }
 
 #menu-toggle {
@@ -91,15 +85,15 @@
   transition: transform 0.3s ease-in-out;
 }
 
-#menu-toggle:checked+.menu-button .line1 {
+#menu-toggle:checked + .menu-button .line1 {
   transform: rotate(45deg);
 }
 
-#menu-toggle:checked+.menu-button .line2 {
+#menu-toggle:checked + .menu-button .line2 {
   transform: scaleY(0);
 }
 
-#menu-toggle:checked+.menu-button .line3 {
+#menu-toggle:checked + .menu-button .line3 {
   transform: rotate(-45deg);
 }
 
