@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/huchu/static/css/main.bec31eb3.css",
-    "main.js": "/huchu/static/js/main.229781a2.js",
-    "static/js/453.a6f86d7e.chunk.js": "/huchu/static/js/453.a6f86d7e.chunk.js",
-    "index.html": "/huchu/index.html",
-    "main.bec31eb3.css.map": "/huchu/static/css/main.bec31eb3.css.map",
-    "main.229781a2.js.map": "/huchu/static/js/main.229781a2.js.map",
-    "453.a6f86d7e.chunk.js.map": "/huchu/static/js/453.a6f86d7e.chunk.js.map"
+    "main.css": "/Huchu/static/css/main.45e53bef.css",
+    "main.js": "/Huchu/static/js/main.79736382.js",
+    "static/js/453.a6f86d7e.chunk.js": "/Huchu/static/js/453.a6f86d7e.chunk.js",
+    "index.html": "/Huchu/index.html",
+    "main.45e53bef.css.map": "/Huchu/static/css/main.45e53bef.css.map",
+    "main.79736382.js.map": "/Huchu/static/js/main.79736382.js.map",
+    "453.a6f86d7e.chunk.js.map": "/Huchu/static/js/453.a6f86d7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bec31eb3.css",
-    "static/js/main.229781a2.js"
+    "static/css/main.45e53bef.css",
+    "static/js/main.79736382.js"
   ]
 }
